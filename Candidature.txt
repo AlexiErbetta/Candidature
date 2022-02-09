@@ -1,0 +1,45 @@
+Description du resenti :
+
+Projet très sympathique et assez complet. J'ai décidé d'utiliser Laravel comme Framework PHP car j'étais plus à l'aise avec celui ci qu'avec WordPress 
+(et avec l'accord de M. Thomas MOREIRA). J'ai aussi utilisé Bootstrap pour ses classes CSS qui permettent notamment de gérer le responsive.
+La charte fournie était une bonne aide, cela m'a permis d'avancer plus facilement dans le projet car j'avais déjà les directives à respecter.
+Je tiens aussi à préciser que dû à mon déménagement, je ne pouvais que réaliser ce test les soirs.
+
+Difficultés :
+
+Les Font Google, comme par exemple la gestion du H1 qui devait être divisé en Regular et Light. 
+Les finitions du design pour que ce soit le plus similaire possible.
+
+Facilités :
+
+La gestion du responsive avec Bootstrap
+Le menu ouvrant en JS 
+L'installation et l'utilisation de Laravel
+Liaison avec la BDD pour la gestion automatique du Carousel
+
+Petit + 
+Gestion automatique du Carousel avec une base de données et méthode Crud
+Cliquez sur "Gérer les articles" pour ajouter / supprimer / modifier un article
+Ou se rendre ici "/carousel"
+
+
+Estimation du temps passé :
+
+J'ai d'abord voulu utiliser WordPress selon les consignes, j'ai donc dabord suivi des Tutos et formations sur internet pour essayer de maitriser cet outil
+afin de créer un thème de toute pièce.
+J'en ai donc fais part à M. Thomas MOREIRA qui m'a dit que je pouvais utiliser l'outil qui me convenait le mieux.
+J'ai donc décidé d'utiliser Laravel.
+
+Mise en place de l'environnement du projet : 30min
+Front :
+ - Design et mise en page (avec création du contenu) 3h
+ - Menu ouvrant 30min
+ - Responsive 1h
+
+Back :
+
+ - Mise en place de la BDD : 20 min
+ - Gestion du Carousel (textes et images) avec ajout, modification et suppression : 2h
+
+Mise en ligne du test :
+Je n'ai pas pu mettre le site en ligne car je ne possède pas d'hébergeur ni de nom de domaine.
